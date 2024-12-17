@@ -1,0 +1,24 @@
+.a{
+    background-color: black;
+    color: aquamarine;
+    width: 90px;
+    height: 90px;
+    padding: 40px;
+    margin: 150px 200px;
+    border-color: blueviolet;
+    border-style: solid;
+    border-top-color: aqua;
+    border-radius: 20px;
+
+}
+.b{
+    border: 10px;
+    height: 200px;
+    width: 100px;
+    margin-top: -150px;
+    margin-left: 238px;
+    border-radius: 0px ;
+    border: 2px solid aquamarine;
+    background-color: blueviolet;
+    
+}
